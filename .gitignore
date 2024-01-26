@@ -1,0 +1,40 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.env
+.env.*
+!.env.example
+.vercel
+.output
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Node.js files
+node_modules/
+
+# Svelte build files
+public/build/
+
+# Editor-related files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.prod
+
+# Build artifacts
+dist/
+__sapper__/
+
+# Logs
+*.log
