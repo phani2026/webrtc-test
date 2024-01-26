@@ -29,8 +29,6 @@ npm run dev -- --open
 
 To create a production version of your app:
 
-test
-
 ```bash
 npm run build
 ```
